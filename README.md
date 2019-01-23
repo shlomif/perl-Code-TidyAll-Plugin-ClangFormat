@@ -1,2 +1,2 @@
-# perl-Code-TidyAll-Plugin-Flake8
-A flake8 plugin for Code::TidyAll
+# perl-Code-TidyAll-Plugin-ClangFormat
+A clang-format plugin for Code::TidyAll
