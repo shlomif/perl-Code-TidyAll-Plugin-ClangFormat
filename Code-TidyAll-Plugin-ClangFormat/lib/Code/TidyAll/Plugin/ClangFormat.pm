@@ -22,6 +22,8 @@ sub transform_file
 
 1;
 
+__END__
+
 =head1 NAME
 
 Code::TidyAll::Plugin::ClangFormat - run clang-format using Code::TidyAll
@@ -44,3 +46,5 @@ It was originally written for use by Freecell Solver
 ( L<https://fc-solve.shlomifish.org/> ), an open source automated solver
 for some variants of Patience / card solitaire.
 games.
+
+=cut
